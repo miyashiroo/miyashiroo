@@ -1,10 +1,11 @@
 ### Hi !
-<p> This is a repository for my study lessons, so please be kind and patient. In the future I hope I can help many people to learn for free. Welcome.
+<p> This is a repository for my study lessons, so please be kind and patient. 
  </p>
 
 
 
-- 🌱 I’m currently learning HTML , CSS and Javascript
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: ...@miyashiroo
+
 
 
