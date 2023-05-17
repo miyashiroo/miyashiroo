@@ -1,11 +1,11 @@
 ### Hi !
-<p> This is a repository for my study lessons, so please be kind and patient. 
+<p>Repositório para projetos que desenvolve em aula e também projetos pessoais.
  </p>
 
 
 
-- 🌱 I’m currently learning Java.
-- 📫 How to reach me: ...@miyashiroo
+- 🌱 Aprendendo Java
+- Aprendendo Spring Boot
 
 
 
